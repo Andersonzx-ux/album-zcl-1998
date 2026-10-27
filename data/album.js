@@ -27,7 +27,7 @@ window.album = {
             number: 1,
             title: "Pra Não Pensar em Você",
             duration: "5:02",
-            composers: ["César Augusto, Piska"],
+            composers: ["César Augusto / Piska"],
             audio: "audio/01.flac",
             lyrics: `[00:33.52] Quando a saudade doer
 [00:36.77] E a solidão machucar
